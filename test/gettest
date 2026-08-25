@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=devise-width, initial-scale=1.0">
+		<title>09toyotesthomepage</title>
+		<link rel="icon" href="fabikon.ico">
+		<meta name="description" content="09toyoのホームページだよ！いいね！">
+		<meta name="google-site-verification" content="qeppLV0oxzJz1blqxsyvUzsbuKCAq4yDYjKHhT57D78" />
+	</head>
+	<body bgcolor="#9f9">
+		<center><p>getのテストページ</p></center>
+    <p>getのテストページです。</p>
+	</body>
+</html>
