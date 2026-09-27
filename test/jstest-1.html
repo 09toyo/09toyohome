@@ -13,5 +13,15 @@
         alert("JavaScriptが正常に動いています！");
     </script>
 <p>(geminiのコードをそのまま写しただけ)</p>
+    <h1 id="text">ボタンを押してみてください</h1>
+    
+    <button onclick="changeText()">クリック！</button>
+
+    <script>
+        function changeText() {
+            // id="text" の要素を取得して文字を書き換えます
+            document.getElementById("text").textContent = "文字が変更されました！";
+        }
+    </script>
 </body>
 </html>
